@@ -9,5 +9,10 @@
         "version": "1.0",
         "Server_url": "192.168.0.104:8085",
       "PlayerMatch_url":"192.168.0.104:8085"
+    },
+     "Ludo":{
+        "version": "1.0",
+        "Server_url": "192.168.0.104:8084",
+      "PlayerMatch_url":"192.168.0.104:8084"
     }
   }
